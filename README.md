@@ -38,4 +38,4 @@ equates to:
 `shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
 
 ## Credits and thanks to:
-Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You to You all.
+The staff at codevault, Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You to You all.
