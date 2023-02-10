@@ -2,6 +2,7 @@
 42 project pipex, passed 125/100
 
 Usage mandatory part:
+
 make
 
 Syntax:
@@ -10,6 +11,7 @@ equates with shell:
 < infile shell cmd with options | shell command with options > outfile
 
 Usage bonus part:
+
 make bonus
 
 Syntax:
@@ -21,5 +23,5 @@ Syntax heredoc:
 equates with shell:
 shell cmd with options <<DELIMITER | shell cmd with options >> outfile
 
-Credits:
-Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many others too many great 42 Heilbronn mates to mention here, in addition to some great evaluators and people around the world who build great code, thank You to You all.
+Credits and thanks to:
+Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many otehr great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You to You all.
