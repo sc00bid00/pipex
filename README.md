@@ -8,7 +8,9 @@ make
 Syntax:
 
 `./pipex infile "shell cmd with options" "shell cmd with options" outfile
-equates with shell:
+
+equates to:
+
 < infile shell cmd with options | shell command with options > outfile`
 
 Usage bonus part:
@@ -21,7 +23,9 @@ same as mandatory but n commands allowed
 Syntax heredoc:
 
 `./pipex here_doc DELIMITER "shell cmd with options" "shell cmd with options" outfile
-equates with shell:
+
+equates to:
+
 shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
 
 Credits and thanks to:
