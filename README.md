@@ -7,11 +7,11 @@ make
 
 Syntax:
 
-`./pipex infile "shell cmd with options" "shell cmd with options" outfile
+`./pipex infile "shell cmd with options" "shell cmd with options" outfile`
 
 equates to:
 
-< infile shell cmd with options | shell command with options > outfile`
+`< infile shell cmd with options | shell command with options > outfile`
 
 Usage bonus part:
 
@@ -22,11 +22,11 @@ same as mandatory but n commands allowed
 
 Syntax heredoc:
 
-`./pipex here_doc DELIMITER "shell cmd with options" "shell cmd with options" outfile
+`./pipex here_doc DELIMITER "shell cmd with options" "shell cmd with options" outfile`
 
 equates to:
 
-shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
+`shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
 
 Credits and thanks to:
 Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many otehr great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You to You all.
