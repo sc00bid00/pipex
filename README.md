@@ -5,10 +5,10 @@
 Discover in detail a UNIX mechanism that we already know by using it in our program
 
 ## Key Takeaways
-Each time I call a system process its execution will overwrite my running process, therefore I'll need to "fork"
+Each time you call a system process its execution will overwrite your running process, therefore you'll need to "fork"
 i.e. reproduce an exact copy of the memory at a point in time and "sacrifice" it for system execution.
-This compels me also to manage inputs and output with file descriptors accordingly, piping information in logical and timely ways.
-In all a great learning experience also this time.
+This compels you also to manage inputs and output with file descriptors accordingly, piping information in logical and timely ways.
+In all a great learning experience also this time, so fasten your seat belts and get ready for some hard thinking.
 
 ## Usage mandatory part:
 
