@@ -6,6 +6,7 @@ Usage mandatory part:
 make
 
 Syntax:
+
 `./pipex infile "shell cmd with options" "shell cmd with options" outfile
 equates with shell:
 < infile shell cmd with options | shell command with options > outfile`
