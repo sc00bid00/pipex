@@ -7,12 +7,14 @@ Discover in detail a UNIX mechanism that we already know by using it in our prog
 ## Key Takeaways
 Each time you call a system process its execution will overwrite your running process, therefore you'll need to "fork"
 i.e. reproduce an exact copy of the memory at a point in time and "sacrifice" it for system execution.
-This compels you also to manage inputs and output with file descriptors accordingly, piping information in logical and timely ways.
+This compels you also to manage input and output with file descriptors accordingly, piping information in logical and timely ways.
+Personally I also refined usage of exit statuses, error messages and in general use of the three standard file desciptors, really
+appreciating 2 - STDERR which I greatly underestimated until recently.
 In all a great learning experience also this time, so fasten your seat belts and get ready for some hard thinking.
 
 ## Usage mandatory part:
 
-make
+`make`
 
 ### Syntax:
 
@@ -24,7 +26,7 @@ equates to:
 
 ## Usage bonus part:
 
-make bonus
+`make bonus`
 
 ### Syntax:
 same as mandatory but n commands allowed
