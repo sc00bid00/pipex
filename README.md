@@ -2,7 +2,10 @@
 42 project pipex, passed 125/100
 
 ## Goal
-Discover in detail a UNIX mechanism that we already know by using it in our program
+Discover in detail a UNIX mechanism that we already know by using it in our program.
+
+## Problems you will solve with pipex
+Executing C programs "on steroids" leveraging the full reach of the existing system commands.
 
 ## Key Takeaways
 Each time you call a system process its execution will overwrite your running process, therefore you'll need to "fork"
