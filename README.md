@@ -15,11 +15,11 @@ Personally I also refined usage of exit statuses, error messages and in general 
 appreciating 2 - STDERR which I greatly underestimated until recently.
 In all a great learning experience also this time, so fasten your seat belts and get ready for some hard thinking.
 
-## Usage mandatory part:
+## Usage mandatory part
 
 `make`
 
-### Syntax:
+### Syntax
 
 `./pipex infile "shell cmd with options" "shell cmd with options" outfile`
 
@@ -27,14 +27,14 @@ equates to:
 
 `< infile shell cmd with options | shell command with options > outfile`
 
-## Usage bonus part:
+## Usage bonus part
 
 `make bonus`
 
-### Syntax:
-same as mandatory but n commands allowed
+### Syntax
+same as mandatory but n pipes allowed
 
-### Syntax heredoc:
+### Syntax heredoc
 
 `./pipex here_doc DELIMITER "shell cmd with options" "shell cmd with options" outfile`
 
@@ -42,5 +42,5 @@ equates to:
 
 `shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
 
-## Credits and thanks to:
-The staff at codevault, Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You to You all.
+## Credits and thanks to
+The staff at codevault, Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You all.
