@@ -40,5 +40,5 @@ equates to:
 
 `shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
 
-## Credits and thanks to
-The staff at codevault, Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great 42 Heilbronn fellows too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You all.
+## Credits and thanks to:
+The staff at codevault; 42 Heilbronn's Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great fellow students too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You all.
