@@ -41,4 +41,4 @@ equates to:
 `shell cmd with options <<DELIMITER | shell cmd with options >> outfile`
 
 ## Credits and thanks to:
-The staff at codevault; 42 Heilbronn's Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other great fellow students too many to mention here, in addition to great evaluators and people around the world who built and shared great code and learnings, thank You all.
+The staff at codevault; 42 Heilbronn's fellow students Alessandro, Max, Rouven, Jamshidbek, Hei Yiu, Florian among many other smart brains too many to mention here, in addition to great evaluators and people around the world who built and shared great code, learnings and tests; 42 Heilbronn's staff who make this possible at all | thank You all.
