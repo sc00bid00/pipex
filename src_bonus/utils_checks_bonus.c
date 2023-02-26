@@ -6,7 +6,7 @@
 /*   By: lsordo <lsordo@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/06 09:52:01 by lsordo            #+#    #+#             */
-/*   Updated: 2023/02/07 19:48:40 by lsordo           ###   ########.fr       */
+/*   Updated: 2023/02/26 07:20:34 by lsordo           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,7 +64,7 @@ char	*ft_remdblesc(char *str)
 	return (tmp);
 }
 
-/* return char * maanging several sorts of prasings (\. '. "...)*/
+/* return char * managing several sorts of prasings (\. '. "...)*/
 void	ft_mgexcept(t_data *d)
 {
 	int		i;
