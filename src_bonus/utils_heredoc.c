@@ -6,12 +6,13 @@
 /*   By: lsordo <lsordo@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/01 11:28:11 by lsordo            #+#    #+#             */
-/*   Updated: 2023/02/08 10:32:40 by lsordo           ###   ########.fr       */
+/*   Updated: 2023/02/26 07:33:08 by lsordo           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <pipex_bonus.h>
 
+/* return file with heredoc lines */
 void	ft_hdoc(t_data *d)
 {
 	int		file;
